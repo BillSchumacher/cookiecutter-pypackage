@@ -99,3 +99,12 @@ cookiecutter-pypackage-env/
 
 # IDE settings
 .vscode/
+
+# Locks
+Pipfile.lock
+
+# Local/Environment Configuration
+environment.py
+
+# Local/Dev DB
+*.sqlite3
